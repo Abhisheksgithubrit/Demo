@@ -19,7 +19,7 @@
 #     else:
 #         print(f"{number} is odd")
 
------------------------------------------------
+# -----------------------------------------------
 # Get user input
 number = int(input("Enter a number:"))
 
