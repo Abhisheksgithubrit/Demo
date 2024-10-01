@@ -1,0 +1,10 @@
+Python Use Cases
+
+Creating web applications on a server
+Building workflows that can be used in conjunction with software
+Connecting to database systems
+Reading and modifying files
+Performing complex mathematics
+Processing big data
+Fast prototyping
+Developing production-ready software
