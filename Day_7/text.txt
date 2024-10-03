@@ -1,0 +1,10 @@
+OOP's
+-------------------------------------------
+class : blueprint or template for creating objects. // define structure // reusable
+
+object: created from class(instance), unique & functional 
+
+Encapsulation : groups data & methods in a class , restrict direct data access 
+
+Inheritance : inherit , code reuse , hierarchy 
+
