@@ -1,0 +1,22 @@
+Python Modules & Libraries
+-----------------------------------------------------------------
+
+Python Modules : 
+--------------
+Toolbox(Contains pre-written code for specific tasks ) 
+Function: (Reusable pieces of code) 
+Variables: (Store data for later use)
+Classes: (Templates,for creating objects).
+
+EX : Square root(Calculate square root of numbers),Trignometry(Sine,cosine,tangent functions),Logarithms
+
+Python Libraries:
+----------------
+
+Collection(Multiple related modules grouped together ) Domain-specification
+
+
+Pandas Library:
+--------------
+Data Analysis
+Data Manipulation
