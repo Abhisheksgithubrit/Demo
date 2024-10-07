@@ -1,0 +1,23 @@
+Exception Handling:
+------------------
+
+Normal Flow-prgm executes as expected
+Exception Occurs-Unexcepted event disrupts normal flow
+Handling - 
+
+Real world Analogy
+    Driving - Cow on road is Unexcepted
+    programming - Execution is unexceptd event
+
+1.ZeroDivision Error
+2.ValueError
+3.TypeError
+4.InheritError
+
+#Database
+------------------------------------------------------------------
+
+MYSQL-Relational database storing data in tables.
+
+MongoDB-NOSQL with flexible document structure.
+
